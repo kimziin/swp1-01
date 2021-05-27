@@ -1,3 +1,3 @@
 20212975 - Seohyeon Kim
 
-Kookmin Univ. SW
+Kookmin Univ. School of Computer Science
